@@ -36,10 +36,4 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaopedrofv/joaopedrofv/output/snake.svg" alt="Snake animation" />
-
-###
